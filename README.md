@@ -14,6 +14,8 @@ First contact with programming when I was 10 years old (Delphi 7) and (C) with 1
 * Null
 ### Last book
 * OWASP Web Security Testing Guide
+### Please recommend good books
+[Make a pull request here](https://github.com/raphaelbarbosaqwerty/BookStudy)
 
 ------
 [![Ghost github stats](https://github-readme-stats.vercel.app/api?username=raphaelbarbosaqwerty&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
