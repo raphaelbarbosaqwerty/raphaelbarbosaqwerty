@@ -11,7 +11,7 @@ First contact with programming when I was 10 years old (Delphi 7) and (C) with 1
 * Python.  
 
 ## What book I'm reading at the moment?
-* Null
+* The Number Devil  
 ### Last book
 * OWASP Web Security Testing Guide
 ### Please recommend good books
