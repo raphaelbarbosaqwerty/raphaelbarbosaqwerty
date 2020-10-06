@@ -18,5 +18,11 @@ First contact with programming when I was 10 years old (Delphi 7) and (C) with 1
 ### Please recommend good books
 [Make a pull request here](https://github.com/raphaelbarbosaqwerty/BookStudy)
 
-------
+### Social Medias
+* Feel free to text me.  
+<a href="https://www.linkedin.com/in/raphaelbarbosaqwerty/">
+  <img src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg" height="45">
+</a>
+  
+------  
 [![Ghost github stats](https://github-readme-stats.vercel.app/api?username=raphaelbarbosaqwerty&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
