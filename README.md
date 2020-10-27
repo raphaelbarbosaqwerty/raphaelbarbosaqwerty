@@ -2,7 +2,7 @@
 Welcome, let's me introduce, I'm just a Ghost.
 
 ## About me
-I love to learn new things, hacking, read books, cooking, programming, and contemplate the great questions about life. I'm quite curious about things and the main, I don't know how to talk with others(LOL).  
+I love to learn new things, hacking, read books, cooking, programming, and contemplate the great questions about life. I'm quite curious about things and the main, I have Asperger's Syndrome and I don't know how to talk with others(LOL).  
 First contact with programming when I was 10 years old (Delphi 7) and (C) with 12 years old.
 
 ## Currently Stack
