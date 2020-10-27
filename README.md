@@ -13,6 +13,7 @@ First contact with programming when I was 10 years old (Delphi 7) and (C) with 1
 ## What book I'm reading at the moment?
 * null 
 ### Last book
+* Bug Bounty Playbook
 * The Number Devil: A Mathematical Adventure  
 * OWASP Web Security Testing Guide
 ### Please recommend good books
