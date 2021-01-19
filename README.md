@@ -11,7 +11,7 @@ First contact with programming when I was 10 years old (Delphi 7) and (C) with 1
 * Python.  
 
 ## What book I'm reading at the moment?
-* null 
+* Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) 
 ### Last book
 * Bug Bounty Playbook
 * The Number Devil: A Mathematical Adventure  
