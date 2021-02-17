@@ -6,7 +6,7 @@ I love to learn new things, hacking, read books, cooking, programming, and conte
 First contact with programming when I was 10 years old (Delphi 7) and (C) with 12 years old.
 
 ## Currently Stack
-* Flutter/Dart.   
+* Flutter/Dart my focus since 2019.  
 * PHP/Laravel.  
 * Python.  
 
