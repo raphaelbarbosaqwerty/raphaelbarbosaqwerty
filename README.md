@@ -10,6 +10,10 @@ First contact with programming when I was 10 years old (Delphi 7) and (C) with 1
 * PHP/Laravel.  
 * Python.  
 
+## Contributions
+* Flutterando Co-organizer
+  * [Fluttering](https://www.youtube.com/channel/UC0zjz07GM2Aow4biJyGn43g)
+
 ## What book I'm reading at the moment?
 * Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) 
 ### Last book
