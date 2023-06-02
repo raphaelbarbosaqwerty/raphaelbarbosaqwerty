@@ -7,7 +7,9 @@ First contact with programming when I was 10 years old (Delphi 7) and (C) with 1
 
 ## Currently Stack
 * Flutter/Dart my focus since 2019.  
-* PHP/Laravel.  
+* Node/JavaScript/TypeScript.
+* Supabase.
+* Vue/Nuxt.  
 * Python.  
 
 ## Contributions
